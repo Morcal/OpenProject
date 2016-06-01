@@ -10,6 +10,7 @@ Open Source Project
 * open-source-android-apps [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)  
 * CODEKK [codekk](http://p.codekk.com/)  
 * 泡网代码 [泡网代码](http://www.jcodecraeer.com/plus/list.php?tid=31)  
+* 看源社区 [看源社区](http://www.see-source.com/androidwidget/list.html)  
 * Github开源优秀项目 [优秀项目](http://www.cnblogs.com/hawkon/p/3593709.html)  
 * List of Android Libraries [Android Libraries各模块](https://github.com/Morcal/awesome-android-libraries)  
 * awesome-android [awesome-android](https://github.com/snowdream/awesome-android)  
