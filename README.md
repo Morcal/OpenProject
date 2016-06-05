@@ -14,6 +14,8 @@ Open Source Project
 * Github开源优秀项目 [优秀项目](http://www.cnblogs.com/hawkon/p/3593709.html)  
 * List of Android Libraries [Android Libraries各模块](https://github.com/Morcal/awesome-android-libraries)  
 * awesome-android [awesome-android](https://github.com/snowdream/awesome-android)  
+* Awesome-MaterialDesign[Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)  
+* awesome-android-ui[awesome-android-ui](https://github.com/liaohuqiu/awesome-android-ui)
 
 ## Android 开发框架  
 
